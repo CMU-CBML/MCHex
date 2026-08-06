@@ -1,0 +1,2 @@
+IoU threshold (smaller -> finer, range: [1e-16, 1], default: 1e-6): 1e-6
+remove hanging node method (default: 1): 1
