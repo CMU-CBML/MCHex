@@ -1,4 +1,4 @@
-# MCHex: Marching cubes based adaptive hexahedral mesh generation with guaranteed positive Jacobian
+# MCHex: Marching Cubes Based Adaptive Hexahedral Mesh Generation with Guaranteed Positive Jacobian
 
 ## Installation
 
