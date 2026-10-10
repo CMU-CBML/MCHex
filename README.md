@@ -1,3 +1,5 @@
+This paper is accepted by ACM Transactions on Graphics. Citation information coming soon!
+
 # MCHex: marching cubes based adaptive hexahedral mesh generation with guaranteed positive Jacobian
 
 ![teaser](teaser.jpg)
